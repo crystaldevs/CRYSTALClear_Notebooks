@@ -31,4 +31,4 @@ If you have ideas for additional examples or improvements, feel free to open an 
 
 ## 📄 License
 
-Distributed under the [MIT License](LICENSE).
+Distributed under the [GPLv3 License](LICENSE).
